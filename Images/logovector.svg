@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FC0606;}
+	.st2{fill:#FC0606;stroke:#FC0606;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#020202;stroke-miterlimit:10;}
+	.st4{font-family:'MyriadWebPro-Italic';}
+	.st5{font-size:72px;}
+</style>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<g>
+		<path class="st0" d="M361.4,417.4h-22l-18-100.2H342l12.7,75.8l41.5-75.8h20.4L361.4,417.4z"/>
+		<path class="st0" d="M404.7,417.4l20.9-100.2h74.3l-3.5,16.7h-53.7l-4.8,22.8h51.9l-3.5,16.7h-51.9l-6.3,27.2h58.3l-3.6,16.7
+			H404.7z"/>
+		<path class="st0" d="M588.1,334h-29l-17.4,83.5H521l17.5-83.5h-29.4l3.5-16.7h79"/>
+		<path class="st1" d="M644.2,430.4h-19.6l-3.6-83.7l-15.9,83.7h-18.6l20.9-100.2h29.4l3.1,70.2l34.2-70.2h29.7l-21,100.2H664
+			l19.8-83.1L644.2,430.4z"/>
+		<path class="st1" d="M722.9,430.4h-26.7l44.2-50.7l-24.9-49.5h21.5l9.8,18.8c0.3,0.7,2.6,5.3,6.7,13.9c0.3,0.5,0.6,1.1,0.9,1.8
+			c5.6-6.8,10.2-12.3,14-16.7l15.8-17.8h25.9L764.3,383l24.7,47.4h-23.2l-7.5-15.1c-3.9-8-6.5-13.7-7.8-17.2
+			c-1.8,2.7-6.4,8.2-13.7,16.7L722.9,430.4z"/>
+	</g>
+	<polyline class="st0" points="588.1,333.8 795,311 591.5,317.5 	"/>
+	<polygon class="st2" points="591.4,416.9 413,431 586.7,430.5 	"/>
+	<path class="st3" d="M587.5,430.5"/>
+	<path class="st3" d="M591.5,417.5"/>
+	<text transform="matrix(1 0 0 1 325.8315 485.2715)" class="st0 st4 st5">NATION</text>
+</g>
+</svg>
